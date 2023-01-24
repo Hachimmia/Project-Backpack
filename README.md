@@ -1,4 +1,4 @@
-Project-Backpack is a group project that happened during my HND year 1 of web development at Edinburgh College.
+Project-Backpack is a group project that happened during my HND year 1 of web development at Edinburgh College in 2022.
 
 The project is about a pitch to present to a new start-up company, in the luxury products field.
 
